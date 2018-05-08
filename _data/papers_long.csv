@@ -113,7 +113,7 @@ What you can cram into a single $&!#* vector: Probing sentence embeddings for li
 A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling,"Ying Lin, Shengqi Yang, Veselin Stoyanov and Heng Ji"
 Deep Reinforcement Learning for Chinese Zero Pronoun Resolution,"Qingyu Yin, Yu Zhang, Wei-Nan Zhang, Ting Liu and William Yang Wang"
 Numeracy for Language Models: Evaluating their Ability to Predict Numbers,Georgios Spithourakis and Sebastian Riedel
-Efficient and Robust Question Answering from Minimal Context over Documents,"Sewon Min, Victor Zhong, Caiming Xiong and Richard Socher"
+Efficient and Robust Question Answering from Minimal Context over Documents,"Sewon Min, Victor Zhong, Richard Socher and Caiming Xiong"
 "Bridging CNNs, RNNs, and Weighted Finite-State Machines","Roy Schwartz, Sam Thomson and Noah A. Smith"
 Sequence-to-sequence Models for Cache Transition Systems,"Xiaochang Peng, Linfeng Song, Daniel Gildea and Giorgio Satta"
 Neural Argument Generation Augmented with Externally Retrieved Evidence,Xinyu Hua and Lu Wang
